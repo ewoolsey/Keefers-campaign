@@ -1,0 +1,1 @@
+The light Crusade is a religion founded upon the undying flame of the [[Grand Lighthouse]] which saved [[Candle Stone]] from the advancement of the [[Grave Winter]].

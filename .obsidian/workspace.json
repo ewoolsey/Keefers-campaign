@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "0323eb61535a7f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "2543b72a818ccb0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412f2c05fd948531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Wineforth Family.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70632fe245c2a935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Cloud Sea/Shards/Rifton/Rifton.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47822d99fae8c483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Human Kingdom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a25721f6f60bbb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hooks/Hooks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67417d98b7502a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d43bae2ef9294df",
+        "type": "tabs",
+        "dimension": 76.20370370370371,
+        "children": [
+          {
+            "id": "64f3d69d8b796d70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f666d5b618f034b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "FROM #hooks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a38e5ce3973c9a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba4de6a2925088d9",
+        "type": "tabs",
+        "dimension": 23.796296296296294,
+        "children": [
+          {
+            "id": "00cae91947e3a649",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.50390243530273
+  },
+  "right": {
+    "id": "3da91cdf2350f790",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f74e38dbabb46b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f7e3fe2bad232d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Cloud Sea/Shards/Rifton/Rifton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac70736e60884fba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Cloud Sea/Shards/Rifton/Rifton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99ac446e87930e42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "331079adfb358e04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Cloud Sea/Shards/Rifton/Rifton.md"
+              }
+            }
+          },
+          {
+            "id": "c6b0d9ec377c4045",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "678d859ba5620ff5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8bbe3878fafb795",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "70632fe245c2a935",
+  "lastOpenFiles": [
+    "Locations/Cloud Sea/Shards/Hearthen/Hearthen.md",
+    "Locations/Cloud Sea/Shards/Gramerai/Gramerai.md",
+    "Hooks/A Lost Friend.md",
+    "Locations/Cloud Sea/Shards/Shards.md",
+    "Maps",
+    "Locations/Cloud Sea/Shards/The Forlorn Shiver/The Forlorn Shiver.md",
+    "Locations/Cloud Sea/Shards/Rifton/Rifton.md",
+    "Locations/Cloud Sea/Shards/The Forlorn Shiver/Lynn Ail-Lenwi.md",
+    "Locations/world entirely submerged in water/world entirely submerged in water.md",
+    "Hooks/A Strange Encounter at Depths.md",
+    "Locations/Cloud Sea/Cloud Sea.md",
+    "Locations/world entirely submerged in water",
+    "Templates/Region.md",
+    "Templates/NPC.md",
+    "People/Party/Pyre.md",
+    "People/Party/Myrrdin Chosaach.md",
+    "People/Party/Lawry.md",
+    "Hooks/Retake the Wineforth Estate.md",
+    "Hooks/Hide and Seek.md",
+    "Hooks/A Search in the Stars.md",
+    "Hooks/Hooks.md",
+    "Groups/Brethyn Noswaith.md",
+    "Groups/Human Kingdom.md",
+    "Groups/Blackblade Tribe.md",
+    "Events/The Chronicle of Wind.md",
+    "Events/The Chronicle of Water.md",
+    "Events/The Chronicle of Fire.md",
+    "Events/Shrinkifying.md",
+    "Session Notes",
+    "Templates/Region",
+    "Locations/Cloud Sea/Shards/popop",
+    "Locations/Cloud Sea/Shards/new test shard",
+    "Locations/Cloud Sea/Shards/test shard",
+    "Templates/Region",
+    "Locations/Cloud Sea/Shards/Gramerai/new template location",
+    "Templates/Location",
+    "Images/Myrrdin_4.png",
+    "Images/Myrrdin_2.png",
+    "Images/Myrrdin_3.png",
+    "Images/Myrrdin_1.png",
+    "Locations/Cloud Sea/Myrrdin.png",
+    "Locations/Cloud Sea/00911-855254989-A detailed closeup of an athletic young man with messy blue hair wearing long flowing robes, (((space))), ((galaxy)), (air_genas.png",
+    "Untitled.canvas"
+  ]
+}

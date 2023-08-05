@@ -1,0 +1,1 @@
+Area to the south of [[Candle Stone]].
