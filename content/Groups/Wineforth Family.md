@@ -1,1 +1,1 @@
-Rich wine making family on [[Gramerai]]. Hired the [[Party]] to "discretely" retake their estate to the east of [[Candle Stone]].
+Rich wine making family on [[Locations/Cloud Sea/Shards/Gramerai/Gramerai]]. Hired the [[Party]] to "discretely" retake their estate to the east of [[Candle Stone]].
