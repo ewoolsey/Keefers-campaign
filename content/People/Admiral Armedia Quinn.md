@@ -1,1 +1,1 @@
-Founder of [[Gramerai]].
+Founder of [[Locations/Cloud Sea/Shards/Gramerai/Gramerai]].
