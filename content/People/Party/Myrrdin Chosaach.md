@@ -1,7 +1,9 @@
 ---
-alias: Myrrdin
-tags: member/brethyn-noswaith, race/genasi
-cssclass: img-grid
+aliases:
+- Myrrdin
+tags:
+- member/brethyn-noswaith
+- race/genasi
 ---
 
 ![[Myrrdin_1.png]]
