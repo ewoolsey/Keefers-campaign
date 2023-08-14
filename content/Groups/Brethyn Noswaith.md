@@ -1,5 +1,7 @@
 ---
-alias: Noswaith, Those of Star and Sky
+aliases:
+- Noswaith
+- Those of Star and Sky
 ---
 
 The tip of [[The Forlorn Shiver]], is home to an old civilization of men and women who call themselves [[Brethyn Noswaith|Brethyn Noswaith]]. The leaders of these people are a group of 5 elders who together form the [[Primevil Speakers]]. Ascending into this position of leadership is highly respected by many [[Brethyn Noswaith|Noswaith]] people (of which there are approximately 1200).
