@@ -1,1 +1,1 @@
-The knuckle mountains are small mountain range on the east side of the [[Shards|Shard]] of [[Gramerai]].
+The knuckle mountains are small mountain range on the east side of the [[Shards|Shard]] of [[Locations/Cloud Sea/Shards/Gramerai/Gramerai]].
