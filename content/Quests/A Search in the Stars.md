@@ -1,5 +1,6 @@
 ---
-tags: quests/hook
+tags: 
+- quest/hook
 ---
 [[Myrrdin Chosaach|Myrrdin's]]  uncle [[Nikephoros]] completed his own [[A'lawdrinaieth]] nearly 12 years ago by scaling the sheer cliffs that line the edge of the [[The Forlorn Shiver]] until he reached the very bottom, scraping against sky itself. There, [[Nikephoros]] discovered the ruins of some ancient arcane technology. A dark energy lingered around the base of the Shiver and these ruins. [[Nikephoros]], got too close to this structure, and when his hand made contact with it, a dark energy pulsed, radiated and perfused through [[Nikephoros]] himself, and the entire island at large, seemingly activated by his presence. Since that day 12 years ago, a corrupting energy has slowly been creeping it's way up to the top of the shiver, almost as if the sheer cliffs on it's edge were rusting and turning a sickly reddish colour. Large boulders from its edge calving and falling into the depths of the [[Cloud Sea]].
 
