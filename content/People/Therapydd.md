@@ -1,5 +1,7 @@
 ---
-tags: member/brethyn-noswaith, race/genasi
+tags:
+- member/brethyn-noswaith
+- race/genasi
 ---
 Therapydd was one of [[Myrrdin Chosaach|Myrrdin Chosaach's]] life long friends from a young age.
 
