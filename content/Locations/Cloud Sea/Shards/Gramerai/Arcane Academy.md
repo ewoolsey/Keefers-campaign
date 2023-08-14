@@ -1,1 +1,1 @@
-Located in the [[Mountains to the North]] of [[Gramerai]]
+Located in the [[Mountains to the North]] of [[Locations/Cloud Sea/Shards/Gramerai/Gramerai]]
