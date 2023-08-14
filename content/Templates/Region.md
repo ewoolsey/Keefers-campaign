@@ -1,3 +1,7 @@
+---
+location: [1142.0469, 1208]
+mapmarker: Region
+---
 ```dataviewjs
 x = await dv.io.load("Templates/Region - Quests.md");
 dv.paragraph(x);
@@ -10,4 +14,5 @@ dv.paragraph(x);
 		)
 	)
 %>
+# Locations
 <%* if (true) { %> %% Waypoint %% <%* } %>
