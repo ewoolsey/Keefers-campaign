@@ -1,5 +1,4 @@
 ---
-tags: 
 ---
 The human empire lives on a far away [[Shards|shard]] known has [[Hearthen]].  
 
