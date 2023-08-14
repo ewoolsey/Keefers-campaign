@@ -1,7 +1,6 @@
-Rifton is a smaller [[Shards|shard]] floating in the [[Cloud Sea]] not too far from the island of [[Gramerai]]. 
+Rifton is a smaller [[Shards|shard]] floating in the [[Cloud Sea]] not too far from the island of [[Locations/Cloud Sea/Shards/Gramerai/Gramerai]]. 
 ```dataviewjs
-x = await dv.io.load("Templates/Region - Quests.md");
-dv.paragraph(x);
+dv.paragraph(await dv.io.load("Templates/Region - Quests.md"));
 ```
 %% Begin Waypoint %%
 
