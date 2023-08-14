@@ -1,3 +1,4 @@
 ---
-tags: race/dragon
+tags:
+- race/dragon
 ---
