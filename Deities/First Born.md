@@ -1,1 +1,0 @@
-Fought and largely destroyed the [[Elemental Primordials]] in a great [[calamitous battle]].

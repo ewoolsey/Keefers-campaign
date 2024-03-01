@@ -1,1 +1,0 @@
-The Grand Lighthouse is a large lighthouse that stands along the southern edge of the city of [[Candle Stone]]. It is the subject of religious warship by members of the [[Light Crusade]]. The [[Party]] visited the Grand Lighthouse quickly after first making landfall on [[Gramerai]].

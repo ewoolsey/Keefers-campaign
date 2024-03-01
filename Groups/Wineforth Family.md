@@ -1,1 +1,0 @@
-Rich wine making family on [[Gramerai]]. Hired the [[Party]] to "discretely" retake their estate to the east of [[Candle Stone]].

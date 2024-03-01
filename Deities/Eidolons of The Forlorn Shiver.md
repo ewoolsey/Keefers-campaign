@@ -1,1 +1,0 @@
-The Eidolons of the [[Elemental Primordials|Elemensus Primeval]] are all that remain of the once great Titans. There presence stretches far and wide across the [[Cloud Sea]] but are particularly active on [[The Forlorn Shiver]]. The eidolons speak directly to the [[Ymarferydd]] of the [[Brethyn Noswaith]].

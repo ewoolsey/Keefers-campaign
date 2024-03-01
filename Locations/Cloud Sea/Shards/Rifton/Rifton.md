@@ -1,1 +1,0 @@
-Rifton is a smaller [[Shards|shard]] floating in the [[Cloud Sea]] not too far from the island of [[Gramerai]]. 

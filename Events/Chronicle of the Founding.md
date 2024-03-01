@@ -1,1 +1,0 @@
-Before there was man or women, beast or burden, and even before the so-called [[First Born]], there were the [[Elemental Primordials|Elemensus Primeval]]. Rather than living and coexisting with earth, fire, sea and sky, they _were_ the elements. Their bodies making up the entirety of the known landscape.

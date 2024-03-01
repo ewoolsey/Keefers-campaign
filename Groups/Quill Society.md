@@ -1,1 +1,0 @@
-A society of mages that began the construction of the [[Arcane Academy]].

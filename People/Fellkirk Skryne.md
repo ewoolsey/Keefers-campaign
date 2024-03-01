@@ -1,1 +1,0 @@
-Related to [[Captain Skryne]]. Located in the [[Lower Green]].

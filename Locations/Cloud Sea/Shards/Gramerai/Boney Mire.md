@@ -1,1 +1,0 @@
-Site of the [[Battle of the Boney Mire]]. A swamp like area in the centre of [[Gramerai]] which was overrun with undead. The [[Party]] fought here under the command of [[Crouchfield]] and successfully killed 6 [[Revenants]].
